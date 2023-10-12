@@ -1,0 +1,17 @@
+{
+  "name": "get-latest-release-download-url",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Adnan Lahrech",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/express": "^4.17.19",
+    "dotenv": "^16.3.1",
+    "nodemon": "^3.0.1",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "octokit": "^3.1.1"
+  }
+}
